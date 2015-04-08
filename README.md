@@ -16,6 +16,8 @@
 ### glances, top, htop, iotop, atop
 ### dmesg
 ### strace
+### ps
+### pstree
 
 ## CPU
 
