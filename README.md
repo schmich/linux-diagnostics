@@ -1,4 +1,4 @@
-# Linux diagnostic tools
+# Linux diagnostics
 
 - [System overview](#system-overview)
 - [CPU tools](#cpu)
@@ -8,12 +8,12 @@
 
 ## System overview
 
-### uname -a
+### uname
 ### lspci
 ### lshw
 ### lsmod
 ### lsusb
-### glances, top, htop, iotop
+### glances, top, htop, iotop, atop
 ### dmesg
 ### strace
 
@@ -29,6 +29,7 @@
 ### fuser
 ### hdparm
 ### smartctl
+### dstat
 
 ## Memory
 
@@ -47,3 +48,5 @@
 ### route
 ### host
 ### lsof
+### iptables
+### ngrep
