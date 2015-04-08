@@ -32,6 +32,7 @@
 ### hdparm
 ### smartctl
 ### dstat
+### stat
 
 ## Memory
 
