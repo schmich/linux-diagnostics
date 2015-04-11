@@ -56,6 +56,9 @@
 ### iptables
 ### ngrep
 ### iptraf
+### conntrack
+
+See http://xmodulo.com/how-to-count-the-number-of-open-network-connections-on-linux.html. Monitor connections in realtime (e.g. `sudo conntrack -E -e NEW -p tcp --dport 22`).
 
 ## Unsorted
 
