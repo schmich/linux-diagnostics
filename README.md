@@ -23,6 +23,7 @@
 
 ### lscpu
 ### gprof
+### /proc/cpuinfo
 
 ## Disk
 
@@ -54,6 +55,7 @@
 ### ss
 ### iptables
 ### ngrep
+### iptraf
 
 ## Unsorted
 
