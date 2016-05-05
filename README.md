@@ -18,6 +18,7 @@
 ### strace
 ### ps
 ### pstree
+### sysctl -a
 
 ## CPU
 
